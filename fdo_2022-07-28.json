@@ -1,0 +1,21 @@
+{
+    "id": "0085dc30-2b80-42b4-a8bf-a3924b831cb6",
+    "metadata": {
+        "title": "Temperature Data for 2022-07-28",
+        "description": "High and low temperatures on 2022-07-28",
+        "creator": "Your Name",
+        "date_created": "2024-09-03 00:04:42.414538",
+        "keywords": [
+            "Temperature",
+            "FDO",
+            "Data"
+        ],
+        "license": "CC BY 4.0",
+        "format": "application/json"
+    },
+    "data": {
+        "date": "2022-07-28",
+        "high_temperature": 34.7,
+        "low_temperature": 17.1
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "operation": "add",
+        "high_temp_fdo_id": "481f16f0-bdb9-4e9f-a566-b5ce8e2a00f3",
+        "low_temp_fdo_id": "57b4cc81-f43a-439e-8cbf-36bd4b54f124",
+        "result": 3025.0,
+        "url": "https://example.org/fdo_result/2022-07-15/add/3025.0"
+    },
+    {
+        "operation": "subtract",
+        "high_temp_fdo_id": "481f16f0-bdb9-4e9f-a566-b5ce8e2a00f3",
+        "low_temp_fdo_id": "57b4cc81-f43a-439e-8cbf-36bd4b54f124",
+        "result": 219.0399999999999,
+        "url": "https://example.org/fdo_result/2022-07-15/subtract/219.0399999999999"
+    },
+    {
+        "operation": "multiply",
+        "high_temp_fdo_id": "481f16f0-bdb9-4e9f-a566-b5ce8e2a00f3",
+        "low_temp_fdo_id": "57b4cc81-f43a-439e-8cbf-36bd4b54f124",
+        "result": 492088.22010000004,
+        "url": "https://example.org/fdo_result/2022-07-15/multiply/492088.22010000004"
+    },
+    {
+        "operation": "divide",
+        "high_temp_fdo_id": "481f16f0-bdb9-4e9f-a566-b5ce8e2a00f3",
+        "low_temp_fdo_id": "57b4cc81-f43a-439e-8cbf-36bd4b54f124",
+        "result": 3.0148016138214393,
+        "url": "https://example.org/fdo_result/2022-07-15/divide/3.0148016138214393"
+    }
+]
